@@ -18,8 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```python
+import numpy as np
+from tensorflow import keras
+```
+## OUTPUT
+![MODEL](/output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
