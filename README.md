@@ -23,6 +23,6 @@ import numpy as np
 from tensorflow import keras
 ```
 ## OUTPUT
-![MODEL](/output.png)
+![MODEL](/swapping_output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
