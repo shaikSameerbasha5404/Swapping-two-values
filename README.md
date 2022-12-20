@@ -19,8 +19,15 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```python
-import numpy as np
-from tensorflow import keras
+#Program to swap two values.
+#Developed by: sameer basha
+#RegisterNumber:22004926
+x=input()
+y=input()
+temp=x
+x=y
+y=temp
+print("Swapped values are: {} {}".format(x,y))
 ```
 ## OUTPUT
 ![MODEL](/swapping_output.png)
